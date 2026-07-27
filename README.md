@@ -85,11 +85,11 @@ pymysql
 
 Clone the repository
 
-git clone https://github.com/yourusername/Agricultural-Production-Analysis.git
+git clone https://github.com/selvakumaran-datascience/AgriData-Explorer-Understanding-Indian-agriculture-with-EDA.git
 
 Move into the project folder
 
-cd Agricultural-Production-Analysis
+cd AgriData-Explorer-Understanding-Indian-agriculture-with-EDA
 
 Install dependencies
 
@@ -136,15 +136,13 @@ Insight generation from real-world datasets
 📱 Mobile-Friendly Dashboard
 📄 PDF Report Generation
 # 👨‍💻 Author
-## Selvakumaran Muthusamy
-
-Aspiring Data Scientist
+## SELVAKUMARAN MUTHUSAMY Aspiring Data Scientist
 
 ## 💻 GitHub: https://github.com/selvakumaran-datascience
 
-## 📧 Email: your-email@example.com
+## 📧 Email: selvakumaran416@gmail>com
 
-## 💼 LinkedIn: Add your LinkedIn Profile
+## 💼 LinkedIn: 
 
 ⭐ If you like this project
 
