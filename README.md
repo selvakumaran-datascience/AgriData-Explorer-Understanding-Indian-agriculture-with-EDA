@@ -128,11 +128,11 @@ Insight generation from real-world datasets
 # 👨‍💻 Author
 ## SELVAKUMARAN MUTHUSAMY Aspiring Data Scientist
 
-## 💻 GitHub: https://github.com/selvakumaran-datascience
+### 💻 GitHub: https://github.com/selvakumaran-datascience
 
-## 📧 Email: selvakumaran416@gmail>com
+### 📧 Email: selvakumaran416@gmail>com
 
-## 💼 LinkedIn: 
+### 💼 LinkedIn: https://www.linkedin.com/in/selvakumaran-muthusamy-376831379
 
 ⭐ If you like this project
 
