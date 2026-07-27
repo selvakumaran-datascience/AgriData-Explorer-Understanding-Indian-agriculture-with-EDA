@@ -59,22 +59,12 @@ Data Analysis	Pandas, NumPy
 Visualization	Matplotlib, Seaborn
 IDE	Jupyter Notebook
 
-## 📷 Sample Visualizations
-📈 Crop Production Analysis
+## 📷 Power bi Visualizations
 
-Add your chart screenshot here
+<img width="1373" height="737" alt="Screenshot 2026-07-27 125908" src="https://github.com/user-attachments/assets/ef7e257a-5f73-41de-a143-d9445d409490" />
+<img width="1370" height="727" alt="Screenshot 2026-07-27 125932" src="https://github.com/user-attachments/assets/30d94807-5b57-4b89-906d-3fb533addf16" />
 
-images/crop_production.png
-🌾 State-wise Production
 
-Add your chart screenshot here
-
-images/state_production.png
-📊 Correlation Heatmap
-
-Add your heatmap screenshot here
-
-images/heatmap.png
 📌 Libraries Used
 pandas
 numpy
