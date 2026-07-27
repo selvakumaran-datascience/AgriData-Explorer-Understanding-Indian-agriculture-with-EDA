@@ -13,7 +13,7 @@ Agriculture is one of the most important sectors for economic growth and food se
 
 The project demonstrates how data analytics can support policymakers, researchers, and farmers in making informed agricultural decisions.
 
-🎯 Objectives
+## 🎯 Project Objectives
 Analyze agricultural production trends.
 Study crop-wise production.
 Compare cultivated area across regions.
@@ -71,7 +71,7 @@ numpy
 matplotlib
 seaborn
 pymysql
-🚀 Installation
+## 🚀 Installation
 
 Clone the repository
 
@@ -130,7 +130,7 @@ Insight generation from real-world datasets
 
 ### 💻 GitHub: https://github.com/selvakumaran-datascience
 
-### 📧 Email: selvakumaran416@gmail>com
+### 📧 Email: selvakumaran416@gmail.com
 
 ### 💼 LinkedIn: https://www.linkedin.com/in/selvakumaran-muthusamy-376831379
 
