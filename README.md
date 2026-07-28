@@ -89,14 +89,14 @@ Launch Jupyter Notebook
 
 jupyter notebook agricultural.ipynb
 ## 📊 Skills Demonstrated
-✔ Data Cleaning
-✔ Data Wrangling
-✔ SQL Query Writing
-✔ Exploratory Data Analysis
-✔ Statistical Analysis
-✔ Data Visualization
-✔ Business Insight Generation
-✔ Python Programming
+✔ Data Cleaning  
+✔ Data Wrangling  
+✔ SQL Query Writing  
+✔ Exploratory Data Analysis  
+✔ Statistical Analysis  
+✔ Data Visualization  
+✔ Business Insight Generation  
+✔ Python Programming  
 ## 📈 Business Insights
 
 This project helps answer questions such as:
@@ -118,13 +118,13 @@ Visualization techniques
 Business intelligence reporting
 Insight generation from real-world datasets
 ## 🔮 Future Improvements
-🤖 Machine Learning for Crop Yield Prediction
-🌦 Weather Data Integration
-📍 GIS Map Visualization
-📊 Interactive Streamlit Dashboard
-☁ AWS Deployment
-📱 Mobile-Friendly Dashboard
-📄 PDF Report Generation
+🤖 Machine Learning for Crop Yield Prediction  
+🌦 Weather Data Integration  
+📍 GIS Map Visualization  
+📊 Interactive Streamlit Dashboard  
+☁ AWS Deployment  
+📱 Mobile-Friendly Dashboard  
+📄 PDF Report Generation  
 # 👨‍💻 Author
 ## SELVAKUMARAN MUTHUSAMY Aspiring Data Scientist
 
